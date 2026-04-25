@@ -34,7 +34,8 @@
 </div>
 <br/>
 
-I architect cloud infrastructure that **doesn't burn down**. I obsess over reliability, automate everything, and sleep peacefully knowing my systems handle 3 AM traffic spikes.
+I architect cloud infrastructure that doesn't burn down. I obsess over reliability, automate everything, and sleep peacefully knowing my systems handle 3 AM traffic spikes.
+I bring the same mindset to Web3—building trustless, resilient systems where smart contracts, on-chain logic, and user interactions are secure, transparent, and built to scale.
 
 - **Infrastructure:** AWS (EKS, VPC, RDS, S3, Lambda), multi-region failover, disaster recovery
 - **DevOps:** Terraform IaC, Kubernetes orchestration, 8-stage security pipelines
