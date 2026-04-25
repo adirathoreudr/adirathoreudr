@@ -193,8 +193,7 @@ Python | LangChain | OpenAI | Kubernetes | ArgoCD | Prometheus | Loki
 **Email:** adirathoreudr@gmail.com  
 **LinkedIn:** [Aditya Rathore](https://www.linkedin.com/in/adityarathoreudr/)
 
-**Fair warning:** I ask tough questions about reliability targets, scaling assumptions, and why you chose that tech stack. If you're building something real, let's talk.
-
+**Fair warning:** I’m curious about how systems scale, stay reliable, and handle real-world usage. I enjoy understanding the “why” behind tech stacks and how products are built to perform under pressure. If you’re building something real, I’d love to learn, contribute, and be part of it.
 </div>
 
 ---
