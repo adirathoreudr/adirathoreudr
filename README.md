@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](./AWS_CloudPractitioner_AdityaRathore.pdf)
-[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](./AWS_AI%20Practitioner_AdityaRathore.pdf)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](./assets/AWS_CloudPractitioner_AdityaRathore.pdf)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](./assets/AWS_AI%20Practitioner_AdityaRathore.pdf)
 ![Kubernetes Expert](https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform Master](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -183,7 +183,7 @@ Python | LangChain | OpenAI | Kubernetes | ArgoCD | Prometheus | Loki
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityarathoreudr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adirathoreudr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adirathoreudr)
-[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=googledocs&logoColor=white)](./AdityaRathore-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=googledocs&logoColor=white)](./assets/AdityaRathore-Resume.pdf)
 
 **Email:** adirathoreudr@gmail.com  
 **LinkedIn:** [Aditya Rathore](https://www.linkedin.com/in/adityarathoreudr/)
