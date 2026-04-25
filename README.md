@@ -1,4 +1,4 @@
-# Hey, I'm Aditya 👨‍💻
+# Hey, I'm Aditya Rathore 👨‍💻
 
 DevOps engineer building infrastructure that doesn't break at 2 AM. AWS Certified Cloud & AI Practitioner. I ship production systems, automate everything, and obsess over reliability metrics.
 
