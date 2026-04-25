@@ -64,9 +64,7 @@ React | Node.js | Ethereum | Solidity | Truffle | Metamask
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n63ZFm/giphy.gif" width="300" alt="God of War - Building" />
-</div>
+
 
 ### 🏗️ **Three-Tier DevSecOps Web App**
 **Live:** [GitHub](https://github.com/adirathoreudr/k8s-three-tier-devsecops)
@@ -94,9 +92,7 @@ React | Node.js | PostgreSQL | EKS | Terraform | Jenkins | ArgoCD
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlGdMHqKU41KSfm/giphy.gif" width="300" alt="Last of Us - AI Combat" />
-</div>
+
 
 ### 🤖 **AIOps for Kubernetes** — Autonomous Incident Commander
 **Live:** [GitHub](https://github.com/adirathoreudr/aiops-kubernetes)
@@ -130,7 +126,6 @@ Python | LangChain | OpenAI | Kubernetes | ArgoCD | Prometheus | Loki
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adirathoreudr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF)](https://github.com/adirathoreudr)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adirathoreudr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/adirathoreudr)
 
