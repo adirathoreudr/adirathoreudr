@@ -29,7 +29,7 @@
 
 ## 🎮 What I Do
 
-<img align="right" src="https://media.giphy.com/media/l0HlDy9x8FZo0XO1i/giphy.gif" width="250" alt="Minecraft Building" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU5Z2M0MjVubG5idm5nd2Rud295ZjRrODhvZTBoM29sYjNsaTh3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11d11t7w8xjE9W/giphy.gif" width="250" alt="What I Do GIF" />
 
 I architect cloud infrastructure that **doesn't burn down**. I obsess over reliability, automate everything, and sleep peacefully knowing my systems handle 3 AM traffic spikes.
 
