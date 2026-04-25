@@ -1,8 +1,3 @@
-# 
-<div align="center">
-  <img src="https://media.giphy.com/media/QaMcXK7nDMF3BS9NLJ/giphy.gif" width="100" alt="God of War - Kratos Ready" />
-</div>
-
 <h1 align="center">Aditya Rathore</h1>
 
 <p align="center">
