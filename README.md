@@ -22,7 +22,7 @@
 
 ---
 
-## 🎮 What I Do
+## 💻 What I Do
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU5Z2M0MjVubG5idm5nd2Rud295ZjRrODhvZTBoM29sYjNsaTh3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11d11t7w8xjE9W/giphy.gif" width="400" alt="What I Do GIF" />
