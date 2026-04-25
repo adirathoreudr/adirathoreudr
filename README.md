@@ -1,9 +1,9 @@
 <h1 align="center">Aditya Rathore</h1>
 
 <p align="center">
-  <strong>DevOps • Infrastructure • AI Engineer</strong>
+  <strong>DevOps • Infrastructure • AI/ML • Web3 Engineer</strong>
   <br/>
-  <em>Building bulletproof systems that run at 3 AM without drama</em>
+  <em>Building bulletproof systems that runs without any drama</em>
 </p>
 
 <div align="center">
