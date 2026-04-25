@@ -188,7 +188,7 @@ Python | LangChain | OpenAI | Kubernetes | ArgoCD | Prometheus | Loki
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityarathoreudr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adirathoreudr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adirathoreudr)
-[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=googledocs&logoColor=white)](https://your-resume-link.com)
+[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=googledocs&logoColor=white)](./AdityaRathore-Resume.pdf)
 
 **Email:** adirathoreudr@gmail.com  
 **LinkedIn:** [Aditya Rathore](https://www.linkedin.com/in/adityarathoreudr/)
