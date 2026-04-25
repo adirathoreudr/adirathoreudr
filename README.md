@@ -48,7 +48,7 @@ I architect cloud infrastructure that **doesn't burn down**. I obsess over relia
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="The Last of Us - Action" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXZqYTZnczNzaHprNTIycWQyem9ubHlkdDZnNDQwa253ZW5iaWdzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W7yUqoy3OJb8lZUULD/giphy.gif" width="300" alt="Featured Project GIF" />
 </div>
 
 ### 🔗 **Block Vote** — Decentralized Voting System
