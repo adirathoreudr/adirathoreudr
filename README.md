@@ -153,7 +153,6 @@ Python | LangChain | OpenAI | Kubernetes | ArgoCD | Prometheus | Loki
 
 ## 🎯 Currently Working On
 
-<img align="left" src="https://media.giphy.com/media/l0HlLH9A7teaJiDmU/giphy.gif" width="180" alt="Minecraft Crafting" />
 
 - 🤖 **AI Cost Optimizer** — LLM agent that finds and kills waste in AWS (oversized EC2, zombie RDS, wasted reserved capacity)
 - 🌐 **Multi-cloud Disaster Recovery** — Automate AWS ↔ Azure failover with Terraform + ArgoCD
