@@ -124,7 +124,6 @@ Python | LangChain | OpenAI | Kubernetes | ArgoCD | Prometheus | Loki
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adirathoreudr&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/adirathoreudr)
 
-[![GitHub Stats](https://github-readme-stats-kappa.vercel.app/api?username=adirathoreudr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/adirathoreudr)
 [![Top Languages](https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=adirathoreudr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/adirathoreudr)
 
 </div>
