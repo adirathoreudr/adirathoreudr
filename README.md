@@ -27,14 +27,7 @@
 
 <div align="center">
 
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-0D1117?style=flat-square&logo=kubernetes&logoColor=00FF41)
-![Terraform](https://img.shields.io/badge/TERRAFORM-0D1117?style=flat-square&logo=terraform&logoColor=00FF41)
-![Solidity](https://img.shields.io/badge/SOLIDITY-0D1117?style=flat-square&logo=solidity&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0D1117?style=flat-square&logo=typescript&logoColor=00FF41)
-![Python](https://img.shields.io/badge/PYTHON-0D1117?style=flat-square&logo=python&logoColor=00FF41)
-![React](https://img.shields.io/badge/REACT-0D1117?style=flat-square&logo=react&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/DOCKER-0D1117?style=flat-square&logo=docker&logoColor=00FF41)
-![Solana](https://img.shields.io/badge/SOLANA-0D1117?style=flat-square&logo=solana&logoColor=00FF41)
+<img src="https://skillicons.dev/icons?i=ts,js,python,solidity,nextjs,react,tailwind,nodejs,express,postgres,mongodb,redis,aws,docker,kubernetes,terraform,git&theme=dark" alt="tech stack icons" />
 
 </div>
 
@@ -117,6 +110,8 @@ OBSERVABILITY : Prometheus · Grafana · Loki
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adirathoreudr&color=00FF41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/adirathoreudr)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adirathoreudr&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="streak stats" />
+
 [![Top Langs](https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=adirathoreudr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9)](https://github.com/adirathoreudr)
 
 </div>
@@ -136,9 +131,10 @@ OBSERVABILITY : Prometheus · Grafana · Loki
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/adityarathoreudr)
-[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:adirathoreudr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/adirathoreudr)
+<a href="https://www.linkedin.com/in/adityarathoreudr"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+<a href="mailto:adirathoreudr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
+<a href="https://github.com/adirathoreudr"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+
 [![Resume](https://img.shields.io/badge/RESUME-0D1117?style=flat-square&logo=googledocs&logoColor=00FF41)](./assets/AdityaRathore-Resume.pdf)
 
 </div>
