@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" width="120" height="140">
+  <rect width="120" height="140" fill="#0D1117"/>
+  <style>
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes scan  { 0%{transform:translateY(0)} 100%{transform:translateY(140px)} }
+    .cursor { animation: blink 1s infinite; }
+    .scanline { animation: scan 3s linear infinite; opacity: 0.06; }
+  </style>
+
+  <!-- pixel figure: flat cap -->
+  <rect x="36" y="10" width="48" height="6"  fill="#4a5568"/>
+  <rect x="30" y="16" width="60" height="4"  fill="#718096"/>
+  <!-- head -->
+  <rect x="36" y="20" width="48" height="36" fill="#c8a882"/>
+  <!-- eyes shut / downward -->
+  <rect x="44" y="32" width="10" height="4"  fill="#2d3748"/>
+  <rect x="66" y="32" width="10" height="4"  fill="#2d3748"/>
+  <!-- nose bridge -->
+  <rect x="56" y="38" width="8"  height="2"  fill="#b8956a"/>
+  <!-- mouth thin line -->
+  <rect x="48" y="46" width="24" height="2"  fill="#2d3748"/>
+  <!-- collar / shirt -->
+  <rect x="30" y="56" width="60" height="40" fill="#1a202c"/>
+  <!-- tie -->
+  <rect x="54" y="56" width="12" height="30" fill="#2d3748"/>
+  <rect x="56" y="86" width="8"  height="6"  fill="#2d3748"/>
+  <!-- lapels -->
+  <rect x="30" y="56" width="20" height="30" fill="#2d3748"/>
+  <rect x="70" y="56" width="20" height="30" fill="#2d3748"/>
+  <!-- white shirt -->
+  <rect x="50" y="56" width="20" height="8"  fill="#e2e8f0"/>
+
+  <!-- scanline overlay -->
+  <rect class="scanline" x="0" y="0" width="120" height="4" fill="#00FF41"/>
+
+  <!-- cursor bottom -->
+  <rect class="cursor" x="4" y="128" width="8" height="10" fill="#00FF41"/>
+  <text x="16" y="138" font-family="monospace" font-size="9" fill="#00FF41">0XADI_</text>
+</svg>
