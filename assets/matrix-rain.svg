@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="800" height="160">
+  <rect width="800" height="160" fill="#0D1117"/>
+  <style>
+    text { font-family: monospace; font-size: 13px; fill: #00FF41; animation: fall linear infinite; opacity: 0; }
+    @keyframes fall {
+      0%   { transform: translateY(-20px); opacity: 0; }
+      5%   { opacity: 0.9; }
+      80%  { opacity: 0.5; }
+      100% { transform: translateY(170px); opacity: 0; }
+    }
+    .c0  { animation-duration:2.1s; animation-delay:0.0s; }
+    .c1  { animation-duration:1.8s; animation-delay:0.3s; }
+    .c2  { animation-duration:2.4s; animation-delay:0.6s; }
+    .c3  { animation-duration:1.6s; animation-delay:0.1s; }
+    .c4  { animation-duration:2.2s; animation-delay:0.8s; }
+    .c5  { animation-duration:1.9s; animation-delay:0.4s; }
+    .c6  { animation-duration:2.5s; animation-delay:1.1s; }
+    .c7  { animation-duration:1.7s; animation-delay:0.7s; }
+    .c8  { animation-duration:2.0s; animation-delay:0.2s; }
+    .c9  { animation-duration:2.3s; animation-delay:0.9s; }
+    .c10 { animation-duration:1.5s; animation-delay:1.3s; }
+    .c11 { animation-duration:2.6s; animation-delay:0.5s; }
+    .c12 { animation-duration:1.8s; animation-delay:1.0s; }
+    .c13 { animation-duration:2.1s; animation-delay:1.4s; }
+    .c14 { animation-duration:1.6s; animation-delay:0.3s; }
+    .c15 { animation-duration:2.4s; animation-delay:1.6s; }
+    .c16 { animation-duration:2.0s; animation-delay:0.8s; }
+    .c17 { animation-duration:1.7s; animation-delay:1.2s; }
+    .c18 { animation-duration:2.2s; animation-delay:0.6s; }
+    .c19 { animation-duration:1.9s; animation-delay:1.7s; }
+    .bright { fill: #7FFF7F; }
+  </style>
+
+  <!-- col x=20 -->
+  <text x="18"  class="c0">1</text><text x="18"  class="c0" style="animation-delay:1.1s">ア</text>
+  <text x="36"  class="c1">0</text><text x="36"  class="c1" style="animation-delay:0.9s">イ</text>
+  <text x="54"  class="c2 bright">1</text><text x="54"  class="c2" style="animation-delay:1.4s">ウ</text>
+  <text x="72"  class="c3">0</text><text x="72"  class="c3" style="animation-delay:0.5s">エ</text>
+  <text x="90"  class="c4">1</text><text x="90"  class="c4" style="animation-delay:1.2s">オ</text>
+  <text x="108" class="c5 bright">Z</text><text x="108" class="c5" style="animation-delay:0.7s">カ</text>
+  <text x="126" class="c6">K</text><text x="126" class="c6" style="animation-delay:1.5s">キ</text>
+  <text x="144" class="c7">8</text><text x="144" class="c7" style="animation-delay:0.2s">ク</text>
+  <text x="162" class="c8 bright">$</text><text x="162" class="c8" style="animation-delay:1.0s">ケ</text>
+  <text x="180" class="c9">1</text><text x="180" class="c9" style="animation-delay:0.4s">コ</text>
+  <text x="198" class="c10">0</text><text x="198" class="c10" style="animation-delay:1.6s">サ</text>
+  <text x="216" class="c11 bright">A</text><text x="216" class="c11" style="animation-delay:0.3s">シ</text>
+  <text x="234" class="c12">D</text><text x="234" class="c12" style="animation-delay:1.1s">ス</text>
+  <text x="252" class="c13">I</text><text x="252" class="c13" style="animation-delay:0.6s">セ</text>
+  <text x="270" class="c14 bright">1</text><text x="270" class="c14" style="animation-delay:1.3s">ソ</text>
+  <text x="288" class="c15">0</text><text x="288" class="c15" style="animation-delay:0.8s">タ</text>
+  <text x="306" class="c16">Z</text><text x="306" class="c16" style="animation-delay:1.7s">チ</text>
+  <text x="324" class="c17 bright">1</text><text x="324" class="c17" style="animation-delay:0.1s">ツ</text>
+  <text x="342" class="c18">Y</text><text x="342" class="c18" style="animation-delay:1.4s">テ</text>
+  <text x="360" class="c19">A</text><text x="360" class="c19" style="animation-delay:0.5s">ト</text>
+  <text x="378" class="c0 bright">0</text><text x="378" class="c0" style="animation-delay:1.9s">ナ</text>
+  <text x="396" class="c2">1</text><text x="396" class="c2" style="animation-delay:0.9s">ニ</text>
+  <text x="414" class="c5">R</text><text x="414" class="c5" style="animation-delay:1.6s">ヌ</text>
+  <text x="432" class="c8 bright">A</text><text x="432" class="c8" style="animation-delay:0.3s">ネ</text>
+  <text x="450" class="c11">T</text><text x="450" class="c11" style="animation-delay:1.2s">ノ</text>
+  <text x="468" class="c14">H</text><text x="468" class="c14" style="animation-delay:0.7s">ハ</text>
+  <text x="486" class="c17 bright">O</text><text x="486" class="c17" style="animation-delay:1.5s">ヒ</text>
+  <text x="504" class="c3">R</text><text x="504" class="c3" style="animation-delay:0.2s">フ</text>
+  <text x="522" class="c6">E</text><text x="522" class="c6" style="animation-delay:1.0s">ヘ</text>
+  <text x="540" class="c9 bright">1</text><text x="540" class="c9" style="animation-delay:0.6s">ホ</text>
+  <text x="558" class="c12">0</text><text x="558" class="c12" style="animation-delay:1.8s">マ</text>
+  <text x="576" class="c15">D</text><text x="576" class="c15" style="animation-delay:0.4s">ミ</text>
+  <text x="594" class="c18 bright">E</text><text x="594" class="c18" style="animation-delay:1.3s">ム</text>
+  <text x="612" class="c1">V</text><text x="612" class="c1" style="animation-delay:0.8s">メ</text>
+  <text x="630" class="c4">0</text><text x="630" class="c4" style="animation-delay:1.6s">モ</text>
+  <text x="648" class="c7 bright">1</text><text x="648" class="c7" style="animation-delay:0.1s">ヤ</text>
+  <text x="666" class="c10">S</text><text x="666" class="c10" style="animation-delay:1.4s">ユ</text>
+  <text x="684" class="c13">Y</text><text x="684" class="c13" style="animation-delay:0.9s">ヨ</text>
+  <text x="702" class="c16 bright">S</text><text x="702" class="c16" style="animation-delay:1.1s">ラ</text>
+  <text x="720" class="c19">1</text><text x="720" class="c19" style="animation-delay:0.6s">リ</text>
+  <text x="738" class="c2">0</text><text x="738" class="c2" style="animation-delay:1.7s">ル</text>
+  <text x="756" class="c5 bright">Z</text><text x="756" class="c5" style="animation-delay:0.3s">レ</text>
+  <text x="774" class="c8">1</text><text x="774" class="c8" style="animation-delay:1.2s">ロ</text>
+</svg>
