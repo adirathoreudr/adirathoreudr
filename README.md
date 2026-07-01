@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/matrix-rain.svg" width="100%" alt="matrix rain" />
+</div>
+
+<div align="center">
 
 ```
 ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
@@ -10,50 +14,51 @@
               U S E R :  A D I T Y A . R A T H O R E
 ```
 
-</div>
-
-<p align="center">
-  <code>> whoami</code><br/>
-  <code>FULL STACK ENGINEER // WEB3 ENGINEER // DEVOPS OPERATIVE</code>
-</p>
-
-<pre align="center">
-   ╔═══════════════════════════════╗
-   ║  > BOOT SEQUENCE INITIATED    ║
-   ║  > LOADING MODULES........OK  ║
-   ║  > ACCESS GRANTED             ║
-   ╚═══════════════════════════════╝
-</pre>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,solidity,nextjs,react,tailwind,nodejs,express,postgres,mongodb,redis,aws,docker,kubernetes,terraform,git&theme=dark" alt="tech stack icons" />
+<code>> whoami</code><br/>
+<code>FULL STACK ENGINEER // WEB3 ENGINEER // DEVOPS OPERATIVE</code>
 
 </div>
-
-```
-[==== STATUS: ONLINE ====] [==== LOCATION: ENCRYPTED ====] [==== UPTIME: 24/7 ====]
-```
 
 <br/>
 
-<pre>
+<table>
+<tr>
+<td width="150" align="center" valign="top">
+  <img src="./assets/pixel-operative.svg" width="120" alt="operative id" />
+</td>
+<td valign="top">
+
+```
 ┌──────────────────────────────────────────────────┐
 │  root@terminal:~$ cat operative_profile.txt       │
 └──────────────────────────────────────────────────┘
-</pre>
+```
 
 I build systems across three domains: full-stack apps, on-chain
 infrastructure, and the cloud/CI-CD layer that keeps it all running.
 Solo builder. Ship end-to-end. No hand-holding.
 
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,solidity,nextjs,react,tailwind,nodejs,express,postgres,mongodb,redis,aws,docker,kubernetes,terraform,git&theme=dark" alt="tech stack icons" />
+
+```
+[==== STATUS: ONLINE ====] [==== LOCATION: ENCRYPTED ====] [==== UPTIME: 24/7 ====]
+```
+
+</div>
+
 //=========================================================//
 
-<pre>
+```
 ┌──────────────────────────────────────────────────┐
 │  root@terminal:~$ ls -la /stack                   │
 └──────────────────────────────────────────────────┘
-</pre>
+```
 
 ```text
 FULL STACK    : React · Next.js · Node.js · TypeScript · Tailwind · Prisma
@@ -66,20 +71,11 @@ OBSERVABILITY : Prometheus · Grafana · Loki
 
 //=========================================================//
 
-<pre>
+```
 ┌──────────────────────────────────────────────────┐
 │  root@terminal:~$ ./run system_logs.sh            │
 └──────────────────────────────────────────────────┘
-</pre>
-
-<pre align="right">
- ┌────────┐
- │ ▓▓░░▓▓ │
- │ ░░▓▓░░ │
- │ ▓▓░░▓▓ │
- └────────┘
-  [ NODE_0X7F ]
-</pre>
+```
 
 **[ LOG_0X01 ]** Autonomous K8s incident-response agent. Detects, diagnoses, and resolves cluster anomalies without manual intervention.
 `→` [github.com/adirathoreudr/aiops-kubernetes](https://github.com/adirathoreudr/aiops-kubernetes)
@@ -96,15 +92,13 @@ OBSERVABILITY : Prometheus · Grafana · Loki
 **[ LOG_0X05 ]** ZK Compression x Token-2022 transfer-hook bridge. Solana AI Kit extension.
 `→` [github.com/adirathoreudr/solana-zk-extensions-skill](https://github.com/adirathoreudr/solana-zk-extensions-skill)
 
-<br clear="right"/>
-
 //=========================================================//
 
-<pre>
+```
 ┌──────────────────────────────────────────────────┐
 │  root@terminal:~$ stat --diagnostics               │
 └──────────────────────────────────────────────────┘
-</pre>
+```
 
 <div align="center">
 
@@ -118,11 +112,11 @@ OBSERVABILITY : Prometheus · Grafana · Loki
 
 //=========================================================//
 
-<pre>
+```
 ┌──────────────────────────────────────────────────┐
 │  root@terminal:~$ ping recruiter --status open    │
 └──────────────────────────────────────────────────┘
-</pre>
+```
 
 ```text
 [STATUS]  OPEN TO: Remote Full Stack / Web3 / DevOps & MLOps roles
@@ -144,5 +138,7 @@ OBSERVABILITY : Prometheus · Grafana · Loki
 ```
 
 <div align="center">
-  <sub>last sync: 2026.06 // always compiling</sub>
+  <img src="./assets/pixel-signoff.svg" width="320" alt="sign off terminal" />
+  <br/>
+  <sub>last sync: 2026.07 // always compiling</sub>
 </div>
