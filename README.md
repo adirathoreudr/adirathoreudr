@@ -56,25 +56,11 @@ LOCATION : ENCRYPTED  │  UPTIME : 24/7  │  STATUS : OPERATIONAL
 
 ---
 
-### SYSTEM LOGS — DEPLOYED OPERATIONS
-
-| LOG ID | OPERATION | STATUS | REPO |
-|--------|-----------|--------|------|
-| `0x01` | **AI Ops K8s Incident Commander** — Autonomous K8s incident response. LangChain + Prometheus. 60% faster MTTR, 50% less alert noise. | `DEPLOYED` | [aiops-incident-commander](https://github.com/adirathoreudr/aiops-incident-commander) |
-| `0x02` | **RUG DNA Live** — AI-powered onchain rug-pull detection. GoldRush/Covalent. Superteam Earn Hackathon. | `LIVE` | [rug-dna-live](https://github.com/adirathoreudr/rug-dna-live) |
-| `0x03` | **GhostProject** — Real-time AI voice sales co-pilot. ElevenLabs STT/TTS + Llama 3.3 70B (NVIDIA NIM). 48hr build. | `LIVE` | [ghostProject](https://github.com/adirathoreudr/ghostProject) |
-| `0x04` | **Solana ZK Extensions Skill** — ZK Compression × Token-2022 Transfer Hook bridge. Solana AI Kit extension. | `ACTIVE` | [solana-zk-extensions-skill](https://github.com/adirathoreudr/solana-zk-extensions-skill) |
-| `0x05` | **Git Auto-Commit No-BS** — Autonomous git-native refactoring agent. DeepSeek-V4-Flash on Vercel. | `ACTIVE` | [git-auto-commit-no-bs](https://github.com/adirathoreudr/git-auto-commit-no-bs) |
-| `0x06` | **K8s Three-Tier DevSecOps** — Zero-downtime three-tier app. Full IaC pipeline (Terraform → ArgoCD → EKS). | `ARCHIVED` | [k8s-three-tier-devsecops](https://github.com/adirathoreudr/k8s-three-tier-devsecops) |
-| `0x07` | **BlockVote** — On-chain voting. Immutable, transparent, tamper-proof ballots. Solidity + Truffle. | `ARCHIVED` | [BlockVote](https://github.com/adirathoreudr/BlockVote) |
-
----
-
 ### PORTFOLIO
 
 <div align="center">
 
-[**`adiisingh.xyz`**](https://adiisingh.xyz)  —  Terminal-style portfolio. AWS Certified Solutions Architect · Kubernetes · Terraform · AWS Certified AI Practitioner
+[**`adiisingh.xyz`**](https://adiisingh.xyz)  —  **Vogue magazine inspired portfolio**
 
 </div>
 
