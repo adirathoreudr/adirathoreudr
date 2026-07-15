@@ -1,11 +1,11 @@
-<div align="center">
+  <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix Rain" />
   <img src="./assets/matrix-rain.svg" width="100%" alt="matrix rain" />
 </div>
 
 <div align="center">
 
 ```
-███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
+              U S E R :  A D I T Y A   R A T H O R E
 ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
 ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
 ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
@@ -17,7 +17,7 @@
 <code>> whoami</code><br/>
 <code>FULL STACK ENGINEER // WEB3 ENGINEER // DEVOPS OPERATIVE</code>
 
-</div>
+  <img src="./assets/pixel-operative.svg" width="120" alt="Operative ID" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 ┌──────────────────────────────────────────────────┐
 │  root@terminal:~$ cat operative_profile.txt       │
 └──────────────────────────────────────────────────┘
-```
+<img src="https://skillicons.dev/icons?i=ts,js,python,solidity,nextjs,react,tailwind,nodejs,express,postgres,mongodb,redis,aws,docker,kubernetes,terraform,git&theme=dark" alt="Tech Stack Icons" />
 
 I build systems across three domains: full-stack apps, on-chain
 infrastructure, and the cloud/CI-CD layer that keeps it all running.
@@ -94,7 +94,7 @@ OBSERVABILITY : Prometheus · Grafana · Loki
 
 //=========================================================//
 
-```
+  <img src="./assets/pixel-signoff.svg" width="320" alt="Sign Off Terminal" />
 ┌──────────────────────────────────────────────────┐
 │  root@terminal:~$ stat --diagnostics               │
 └──────────────────────────────────────────────────┘
