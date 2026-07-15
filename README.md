@@ -86,7 +86,7 @@ LOCATION : ENCRYPTED  │  UPTIME : 24/7  │  STATUS : OPERATIONAL
 [![X](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/adirathoreudr)
 [![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://adiisingh.xyz)
 
-[![Resume](https://img.shields.io/badge/RESUME-0D1117?style=flat-square&logo=googledocs&logoColor=00FF41)](./assets/AdityaRathore-Resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-0D1117?style=flat-square&logo=googledocs&logoColor=00FF41)](https://cv.adiisingh.xyz){:target="_blank"}
 
 </div>
 
