@@ -42,7 +42,7 @@ ROWS = [
     ("AI", "LangChain · NVIDIA NIM · DeepSeek · agents"),
     ("Web3", "Solana · Anchor · Token-2022 · ZK Compression"),
     ("Highlights", "adiisingh.xyz — Vogue-inspired portfolio"),
-    ("Open to", "remote Full Stack / Web3 / DevOps & MLOps"),
+    ("Open to", "Full Stack / Web3 / DevOps job opportunities"),
     ("Contact", "adirathoreudr@gmail.com · UTC+5:30 (IST)"),
 ]
 
